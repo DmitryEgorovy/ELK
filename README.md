@@ -40,8 +40,11 @@
 
 ---  
 Ответ:   
-![alt text](screenshot/1.1.png)
+![alt text](screenshot/1.1.png)  
 
+скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty'  
+
+![alt text](screenshot/1.2.png)
 ---
 
 ### Задание 2. Kibana
