@@ -49,7 +49,10 @@
 
 ### Задание 2. Kibana
 
-Установите и запустите Kibana.
+Установите и запустите Kibana.  
+---  
+Ответ:  
+![alt text](screenshot/2.1.png)
 
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
 
