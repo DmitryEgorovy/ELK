@@ -47,7 +47,7 @@
 ![alt text](screenshot/1.2.png)
 ---
 
-### Задание 2. Kibana
+### Задание 2. Kibana  
 
 Установите и запустите Kibana.  
 ---  
