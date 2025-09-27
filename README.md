@@ -72,7 +72,11 @@
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.  
 ![alt text](screenshot/3.2.png)
 ![alt text](screenshot/3.3.png)
-![alt text](screenshot/3.4.png)
+![alt text](screenshot/3.4.png)  
+
+Конфиг Longstash  
+
+
 
 ---
 
