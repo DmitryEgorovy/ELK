@@ -75,8 +75,7 @@
 ![alt text](screenshot/3.4.png)  
 
 Конфиг Longstash  
-
-
+https://github.com/DmitryEgorovy/ELK/blob/0868c7f908c0e70f7d5b97dbf6039d9a39ec51af/nginx.conf
 
 ---
 
