@@ -62,9 +62,17 @@
 
 ### Задание 3. Logstash
 
-Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
+---  
+Ответ:  
+Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
+![alt text](screenshot/3.1.png)
 
-*Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
+С помощью Logstash отправьте access-лог Nginx в Elasticsearch.  
+
+Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.  
+![alt text](screenshot/3.2.png)
+![alt text](screenshot/3.3.png)
+![alt text](screenshot/3.4.png)
 
 ---
 
